@@ -11,5 +11,6 @@ public class student
         Name = name;
         BirthMonth = birthMonth;
         BirthDay = birthDay;
+        
     }
 }
