@@ -10,6 +10,7 @@ public class ClassRoom
     {
         ClassName = "ClassRoomNet60";
         StudentList = new List<Student>();
-        Semesterstart = new DateTime(2022, 9, 1);
+        Semesterstart = new DateTime(2022, 9, 1); 
+        
     }
 }
